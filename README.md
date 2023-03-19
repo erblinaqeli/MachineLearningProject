@@ -1,4 +1,4 @@
-# MachineLearningProject
+# Machine Learning Project
  Project for's Master's Course Machine Learning  
  Collaborators: Erblina Qeli & Genit Huruglica
  Dataset that is going to be used :Kaggle's Lung Cancer Dataset
