@@ -40,7 +40,8 @@ Link: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
 ## Machine Learning Algorithms
 
- Various machine learning algorithms  will be applied to the dataset, and their performances will be compared such as:  
+ Various machine learning algorithms  will be applied to the dataset, and their performances will be compared such as:    
+ 
     1. Logistic regression  
     2. Decision trees  
     3. Random forests  
