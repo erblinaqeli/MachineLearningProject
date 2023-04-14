@@ -8,7 +8,7 @@ Link: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 1. hotel: Hotel (H1 = Resort Hotel or H2 = City Hotel).  
 2. is_canceled: Value indicating if the booking was canceled (1) or not (0).  
 3. lead_time: Number of days that elapsed between the entering date of the booking into the PMS and the arrival date.  
-4. arrival_date_year: Year of arrival date.  
+4. arrival_date_year: Year of arrival date.      
 5. arrival_date_month: Month of arrival date.  
 6. arrival_date_week_number: Week number of year for arrival date.  
 7. arrival_date_day_of_month: Day of arrival date.  
