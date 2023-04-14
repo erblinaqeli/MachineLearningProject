@@ -38,7 +38,8 @@ Link: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 31. reservation_status: Reservation last status, assuming one of three categories: Canceled – booking was canceled by the customer; Check-Out – customer has checked in but already departed; No-Show – customer did not check-in and did inform the hotel of the reason why.  
 32. reservation_status_date:Date at which the last status was set.   
 
-##Machine Learning Algorithms
+## Machine Learning Algorithms
+
  Various machine learning algorithms  will be applied to the dataset, and their performances will be compared such as:  
     1. Logistic regression, 
     2. Decision trees,
