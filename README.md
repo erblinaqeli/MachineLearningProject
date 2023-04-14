@@ -1,7 +1,7 @@
 # Costumer Retain Rate
 This study aims to predict customer retention rates in the hotel industry using machine learning techniques. The dataset used for this research is the Hotel Booking Demand dataset from Kaggle, which contains information on hotel bookings, customer demographics, and booking details for two hotels. The dataset will be preprocessed, and exploratory data analysis will be performed to gain insights into the data. Feature engineering techniques will be applied to create new features, and the dataset will be split into training and testing sets. Various machine learning algorithms such as logistic regression, decision trees, random forests, and gradient boosting will be applied to the dataset, and their performances will be compared. The results of the study will provide insights into the factors that influence customer retention rates in the hotel industry and provide guidance for hotels to improve their retention rates.
  
-# Dataset and Features
+## Dataset and Features
 
 Link: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
@@ -37,6 +37,12 @@ Link: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 30. total_of_special_requests: Number of special requests made by the customer (e.g. twin bed or high floor).  
 31. reservation_status: Reservation last status, assuming one of three categories: Canceled – booking was canceled by the customer; Check-Out – customer has checked in but already departed; No-Show – customer did not check-in and did inform the hotel of the reason why.  
 32. reservation_status_date:Date at which the last status was set.   
+
+##Machine Learning Algorithms
+ Various machine learning algorithms  will be applied to the dataset, and their performances will be compared such as:  
+    1. Logistic regression, 
+    2. Decision trees,
+    3. Random forests
 
 
 
