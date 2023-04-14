@@ -47,6 +47,7 @@ Link: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
     3. Random forests  
     
 ## 
+
 The results of the study will provide insights into the factors that influence customer retention rates in the hotel industry and provide guidance for hotels to improve their retention rates.
 
 
