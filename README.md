@@ -45,6 +45,8 @@ Link: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
     1. Logistic regression  
     2. Decision trees  
     3. Random forests  
+    4. KNN
+    5.Extra Trees Classifier
     
 ## 
 
