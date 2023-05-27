@@ -62,6 +62,7 @@ Impact of Test Size: It is worth noting that as the test size increases (from 0.
 
 In conclusion, based on the provided results,Random Forest, Decision Tree, and Extra Trees consistently demonstrate high accuracy across different test sizes, outperforming Logistic Regression and KNN.
 
+![Capture321](https://github.com/erblinaqeli/MachineLearningProject/assets/106601487/9cdb9fd0-1af8-4b4a-82ed-700042c00504)
 
 
   | Test Size | Logistic Regression | KNN      | Decision Tree | Random Forest | Extra Trees |
