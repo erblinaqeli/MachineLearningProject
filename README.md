@@ -50,7 +50,26 @@ Link: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
     
 ## 
 
-The results of the study will provide insights into the factors that influence customer retention rates in the hotel industry and provide guidance for hotels to improve their retention rates.
+## Results
+
+Model Performance: The table shows the performance of different machine learning models on the given test sizes. The models include Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, Random Forest, and Extra Trees.
+Accuracy: The results indicate the accuracy of each model on the respective test sizes. For example, Logistic Regression achieved accuracies ranging from 0.807608 to 0.811006, KNN achieved accuracies ranging from 0.880950 to 0.894975, and so on.
+
+Comparative Performance: Comparing the models, it appears that Decision Tree, Random Forest, and Extra Trees consistently perform well across different test sizes, with accuracy scores ranging from 0.931147 to 0.956002.
+Logistic Regression: While Logistic Regression also demonstrates good performance, it tends to have slightly lower accuracy scores compared to the tree-based models, ranging from 0.807608 to 0.811006.
+KNN: K-Nearest Neighbors also performs well, with accuracies ranging from 0.880950 to 0.894975, but it generally falls slightly behind the tree-based models.
+Impact of Test Size: It is worth noting that as the test size increases (from 0.2 to 0.5), the accuracy of all models tends to decrease. This could indicate that the models might be overfitting to the training data or that the test data becomes more challenging.
+
+In conclusion, based on the provided results,Random Forest, Decision Tree, and Extra Trees consistently demonstrate high accuracy across different test sizes, outperforming Logistic Regression and KNN.
+
+
+
+  Test Size  Logistic Regression       KNN  Decision Tree  Random Forest  Extra Trees
+0        0.2             0.807608  0.894975       0.952143       0.956002  0.952647  
+1        0.3             0.809803  0.892235       0.950983       0.954981   0.951067
+2        0.4             0.811006  0.888013       0.944636       0.952751   0.950843 
+3        0.5             0.809227  0.880950       0.931147       0.947437    0.944636  
+
 
 
 
