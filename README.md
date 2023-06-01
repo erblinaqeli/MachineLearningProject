@@ -52,6 +52,11 @@ Link: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
 ## Results
 
+Comparison of Models with and without Weighting:
+
+![123](https://github.com/erblinaqeli/MachineLearningProject/assets/106601487/598d07b6-a74d-44c1-a592-f420f037fce8)
+
+
 Model Performance: The table shows the performance of different machine learning models on the given test sizes. The models include Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, Random Forest, and Extra Trees.
 Accuracy: The results indicate the accuracy of each model on the respective test sizes. For example, Logistic Regression achieved accuracies ranging from 0.807608 to 0.811006, KNN achieved accuracies ranging from 0.880950 to 0.894975, and so on.
 
