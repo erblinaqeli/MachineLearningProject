@@ -56,6 +56,36 @@ Comparison of Models with and without Weighting:
 
 ![123](https://github.com/erblinaqeli/MachineLearningProject/assets/106601487/598d07b6-a74d-44c1-a592-f420f037fce8)
 
+Logistic Regression without weight:
+Accuracy Score: 0.8098034281240388
+Confusion Matrix:
+[[21250  1211]
+ [ 5591  7711]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.95      0.86     22461
+           1       0.86      0.58      0.69     13302
+
+    accuracy                           0.81     35763
+   macro avg       0.83      0.76      0.78     35763
+weighted avg       0.82      0.81      0.80     35763
+
+
+Logistic Regression with weight:
+Accuracy Score: 0.8092162290635573
+Confusion Matrix:
+[[21313  1148]
+ [ 5675  7627]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.95      0.86     22461
+           1       0.87      0.57      0.69     13302
+
+    accuracy                           0.81     35763
+   macro avg       0.83      0.76      0.78     35763
+weighted avg       0.82      0.81      0.80     35763
 
 Model Performance: The table shows the performance of different machine learning models on the given test sizes. The models include Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, Random Forest, and Extra Trees.
 Accuracy: The results indicate the accuracy of each model on the respective test sizes. For example, Logistic Regression achieved accuracies ranging from 0.807608 to 0.811006, KNN achieved accuracies ranging from 0.880950 to 0.894975, and so on.
