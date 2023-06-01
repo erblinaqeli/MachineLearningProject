@@ -67,6 +67,56 @@ Accuracy Score: 0.8092162290635573
 Confusion Matrix:
 [[21313  1148]
  [ 5675  7627]]
+ 
+ KNN without weight:
+Accuracy Score: 0.8922349914716327
+Confusion Matrix:
+[[21677   784]
+ [ 3070 10232]]
+ 
+ KNN with weight:
+Accuracy Score: 0.8875094371277578
+Confusion Matrix:
+[[21571   890]
+ [ 3133 10169]]
+ 
+ Decision Tree without weight:
+Accuracy Score: 0.9519056007605626
+Confusion Matrix:
+[[21575   886]
+ [  834 12468]]
+ 
+ Decision Tree with weight:
+Accuracy Score: 0.9512624779800353
+Confusion Matrix:
+[[21550   911]
+ [  832 12470]]
+ 
+ Random Forest without weight:
+Accuracy Score: 0.9550373290831307
+Confusion Matrix:
+[[22286   175]
+ [ 1433 11869]]
+ 
+ Random Forest with weight:
+Accuracy Score: 0.956435422084277
+Confusion Matrix:
+[[22295   166]
+ [ 1392 11910]]
+ 
+ Extra Trees without weight:
+Accuracy Score: 0.9511226686799206
+Confusion Matrix:
+[[22226   235]
+ [ 1513 11789]]
+ 
+ Extra Trees with weight:
+Accuracy Score: 0.9518217151804939
+Confusion Matrix:
+[[22234   227]
+ [ 1496 11806]]
+ 
+ 
 
 Model Performance: The table shows the performance of different machine learning models on the given test sizes. The models include Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, Random Forest, and Extra Trees.
 Accuracy: The results indicate the accuracy of each model on the respective test sizes. For example, Logistic Regression achieved accuracies ranging from 0.807608 to 0.811006, KNN achieved accuracies ranging from 0.880950 to 0.894975, and so on.
